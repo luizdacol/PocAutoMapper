@@ -1,0 +1,17 @@
+c:\Users\800041183\git\Pocs\AutoMapper\TestAutoMapper\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+c:\Users\800041183\git\Pocs\AutoMapper\TestAutoMapper\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+c:\Users\800041183\git\Pocs\AutoMapper\TestAutoMapper\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+c:\Users\800041183\git\Pocs\AutoMapper\TestAutoMapper\bin\Debug\netcoreapp2.2\TestAutoMapper.deps.json
+c:\Users\800041183\git\Pocs\AutoMapper\TestAutoMapper\bin\Debug\netcoreapp2.2\TestAutoMapper.runtimeconfig.json
+c:\Users\800041183\git\Pocs\AutoMapper\TestAutoMapper\bin\Debug\netcoreapp2.2\TestAutoMapper.runtimeconfig.dev.json
+c:\Users\800041183\git\Pocs\AutoMapper\TestAutoMapper\bin\Debug\netcoreapp2.2\TestAutoMapper.dll
+c:\Users\800041183\git\Pocs\AutoMapper\TestAutoMapper\bin\Debug\netcoreapp2.2\TestAutoMapper.pdb
+c:\Users\800041183\git\Pocs\AutoMapper\TestAutoMapper\bin\Debug\netcoreapp2.2\PocAutoMapper.dll
+c:\Users\800041183\git\Pocs\AutoMapper\TestAutoMapper\bin\Debug\netcoreapp2.2\PocAutoMapper.pdb
+c:\Users\800041183\git\Pocs\AutoMapper\TestAutoMapper\obj\Debug\netcoreapp2.2\TestAutoMapper.csprojAssemblyReference.cache
+c:\Users\800041183\git\Pocs\AutoMapper\TestAutoMapper\obj\Debug\netcoreapp2.2\TestAutoMapper.csproj.CoreCompileInputs.cache
+c:\Users\800041183\git\Pocs\AutoMapper\TestAutoMapper\obj\Debug\netcoreapp2.2\TestAutoMapper.AssemblyInfoInputs.cache
+c:\Users\800041183\git\Pocs\AutoMapper\TestAutoMapper\obj\Debug\netcoreapp2.2\TestAutoMapper.AssemblyInfo.cs
+c:\Users\800041183\git\Pocs\AutoMapper\TestAutoMapper\obj\Debug\netcoreapp2.2\TestAutoMapper.csproj.CopyComplete
+c:\Users\800041183\git\Pocs\AutoMapper\TestAutoMapper\obj\Debug\netcoreapp2.2\TestAutoMapper.dll
+c:\Users\800041183\git\Pocs\AutoMapper\TestAutoMapper\obj\Debug\netcoreapp2.2\TestAutoMapper.pdb
